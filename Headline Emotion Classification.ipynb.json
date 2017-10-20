@@ -20,7 +20,7 @@
    "outputs": [],
    "source": [
     "#data = \"Madonna's New Tot 'Happy at Home' in London\"\n",
-    "data = \"Mortar assault leaves at least 18 dead\""
+    "data = \"Mortar assault leaves at least 18 \""
    ]
   },
   {
@@ -31,7 +31,7 @@
    },
    "outputs": [],
    "source": [
-    "import nltk"
+    "import nlkt"
    ]
   },
   {
