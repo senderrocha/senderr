@@ -1,6 +1,4 @@
-# senderr
 # Lessons Learned in Soft Actuators
-
 
 * Nacionalização BOM
 * Partes difíceis de nacionalizar – vent screw, 
@@ -22,7 +20,8 @@
 * Silicone não seca muito bem em moldes plásticos 
 * É possível fazer um molde de silicone mas tem que colocar um filme platico ou outro material para evitar que o material grude no molde 
 
-
+### Referencia
+https://softroboticstoolkit.com/book/fiber-reinforced-bending-actuators
 
 ## Nacionalização da BOM
 
@@ -33,8 +32,10 @@
 ### # Partes difíceis de nacionalizar
 
 Vent Screw
-
 ![Vent Screw](https://github.com/senderrocha/senderr/blob/master/file/vent%20screw.jpeg)
+
+Tentativa de fabricacao do vent screw por impresssora 3D. Sem sucessso. Material muito frágil. 
+![Vent Screw](https://github.com/senderrocha/senderr/blob/master/file/D466B104-A9EB-4B74-B51A-C900EBC9B8F2.jpeg)
 
 Fibra de vidro
 ![Fibra de vidro](https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg)
@@ -47,11 +48,26 @@ Barra de metal no meio do material
 Balanca:
 ![Balanca](https://github.com/senderrocha/senderr/blob/master/file/147A2E91-A048-46A8-A7CD-3EBD4F6244C0.jpeg)
 
+Cola: 
+Importante nao so para colar o tecido de fibra de vidro no silicone como tambem para colar partes de silicone de um projeto. 
+![Cola](https://github.com/senderrocha/senderr/blob/master/file/BD23E245-254C-4406-B2D3-B898A2168108.jpeg)
 
 
+### Balao
+![Balao](https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg)
 
 
+### fita de nylon de pescar 
+um pouco cara, mas eficiente
+![fita de nylon de pescar](https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg)
 
+# Fabricacao
+Primeiro silicone 
+![Fabricacao](https://github.com/senderrocha/senderr/blob/master/file/E5FB5B91-8B43-4942-B481-4AE49FEE40AE.jpeg)
+Aplicacao do tecido 
+![Fabricacao](https://github.com/senderrocha/senderr/blob/master/file/E062AEDA-1AE9-44E0-9681-30590529FBA8.jpeg)
+Aplicacao do selante
+![Fabricacao](https://github.com/senderrocha/senderr/blob/master/file/D7C09E12-A979-4779-9B45-B91B053AC8D9.jpeg)
 
 
 
