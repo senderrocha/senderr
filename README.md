@@ -36,10 +36,13 @@ Vent Screw
 ![Vent Screw](https://github.com/senderrocha/senderr/blob/master/file/vent%20screw.jpeg)
 
 Tentativa de fabricacao do vent screw por impresssora 3D. Sem sucessso. Material muito frágil:
-![Vent Screw](https://github.com/senderrocha/senderr/blob/master/file/D466B104-A9EB-4B74-B51A-C900EBC9B8F2.jpeg)
+
+<img src="https://github.com/senderrocha/senderr/blob/master/file/D466B104-A9EB-4B74-B51A-C900EBC9B8F2.jpeg"  width="500" height="400">
+
 
 Fibra de vidro:
-![Fibra de vidro](https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg)
+
+<img src="https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg"  width="500" height="400">
 
 Barra de metal no meio do material
 
@@ -47,7 +50,9 @@ Barra de metal no meio do material
 ## Partes importantes do material
 
 Balanca:
-![Balanca](https://github.com/senderrocha/senderr/blob/master/file/147A2E91-A048-46A8-A7CD-3EBD4F6244C0.jpeg)
+
+<img src="https://github.com/senderrocha/senderr/blob/master/file/147A2E91-A048-46A8-A7CD-3EBD4F6244C0.jpeg"  width="500" height="400">
+
 
 Cola: 
 Importante nao so para colar o tecido de fibra de vidro no silicone como tambem para colar partes de silicone de um projeto. 
@@ -56,7 +61,7 @@ Importante nao so para colar o tecido de fibra de vidro no silicone como tambem 
 
 ### Balao
 ![Balao](https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg)
-<img src="https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg"  width="120" height="120">
+<img src="https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg"  width="500" height="600">
 
 ### fita de nylon de pescar 
 um pouco cara, mas eficiente:
