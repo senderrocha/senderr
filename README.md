@@ -31,7 +31,8 @@ https://softroboticstoolkit.com/book/fiber-reinforced-bending-actuators
 
 ### # Partes difíceis de nacionalizar
 
-Vent Screw:
+Vent Screw
+
 ![Vent Screw](https://github.com/senderrocha/senderr/blob/master/file/vent%20screw.jpeg)
 
 Tentativa de fabricacao do vent screw por impresssora 3D. Sem sucessso. Material muito frágil:
@@ -55,7 +56,7 @@ Importante nao so para colar o tecido de fibra de vidro no silicone como tambem 
 
 ### Balao
 ![Balao](https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg)
-
+<img src="https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg"  width="120" height="120">
 
 ### fita de nylon de pescar 
 um pouco cara, mas eficiente:
