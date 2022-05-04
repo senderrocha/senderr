@@ -1,24 +1,95 @@
 # Lessons Learned in Soft Actuators
 
-* Nacionalização BOM
-* Partes difíceis de nacionalizar – vent screw, 
-* Papel serve para fazer sulcos 
-* Partes importantes do material: balanca (balanca de cozinha serve mas não tanto) 	
-* Bolhas no material: mexer bastante, de preferencia com furadeira, mas não muito pois pode esquentar o material e solidifica-lo
-* Como virar o tubo de silicone: usar pipeta 
-* Como fabricar moldes com baixo custo
+## Nacionalização BOM
+24
+26
+27
+28
+12
+41
+51
+62
+61
+18
+## Partes difíceis de nacionalizar – vent screw
+63
+12
+15
+18
+31
+Vent Screw
+
+![Vent Screw](https://github.com/senderrocha/senderr/blob/master/file/vent%20screw.jpeg)
+
+Tentativa de fabricacao do vent screw por impresssora 3D. Sem sucessso. Material muito frágil:
+
+<img src="https://github.com/senderrocha/senderr/blob/master/file/D466B104-A9EB-4B74-B51A-C900EBC9B8F2.jpeg"  width="500" height="400">
+
+
+Fibra de vidro:
+
+<img src="https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg"  width="500" height="400">
+
+Barra de metal no meio do material
+
+## Papel serve para fazer sulcos 
+precisa inserir figura no servidor 
+
+## Partes importantes do material: balanca (balanca de cozinha serve mas não tanto) 	
+5
+53
+
+## Bolhas no material: mexer bastante, de preferencia com furadeira, mas não muito pois pode esquentar o material e solidifica-lo
+4
+9
+14
+21
+
+## Como virar o tubo de silicone: usar pipeta 
+24
+
+## Como fabricar moldes com baixo custo
 * 	- materiais que não grudam 
 * 	- plásticos em geral, metal, madeira, cartolina, 
-* Como guardar sobra de material já preparado: dentro de balão (sem contato com ar)
-* Cola de silicone para montagem de partes do molde ou do produto a ser fabricado
-* Vedação de material – cola, borracha, plástico
+42
+30
+
+## Como guardar sobra de material já preparado: dentro de balão (sem contato com ar)
+57
+
+## Cola de silicone para montagem de partes do molde ou do produto a ser fabricado
+44
+16
+
+## Vedação de material – cola, borracha, plástico
 * 	- fabricar o atuador sempre com um formato de cone no final para poder passar abraçadeira para fixar 
-* Como testar o material: recipiente com agua para verificar bolhas 
-* Rigidez do material: paredes espessas exigem grandes pressões 
-* Manutenção de pneu de bicicleta para reparos 
-* Quanto menos espesso melhor para expansão do material 
-* Silicone não seca muito bem em moldes plásticos 
-* É possível fazer um molde de silicone mas tem que colocar um filme platico ou outro material para evitar que o material grude no molde 
+20
+27
+35
+36
+39
+43
+46
+48
+50
+
+
+## Como testar o material: recipiente com agua para verificar bolhas 
+falta imagens
+
+## Rigidez do material: paredes espessas exigem grandes pressões 
+15
+
+## Manutenção de pneu de bicicleta para reparos 
+
+
+## Quanto menos espesso melhor para expansão do material 
+
+
+## Silicone não seca muito bem em moldes plásticos 
+
+
+## É possível fazer um molde de silicone mas tem que colocar um filme platico ou outro material para evitar que o material grude no molde 
 
 ### Referencia
 https://softroboticstoolkit.com/book/fiber-reinforced-bending-actuators
