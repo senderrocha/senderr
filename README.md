@@ -54,33 +54,33 @@ precisa inserir figura no servidor
 * 	- materiais que não grudam 
 * 	- plásticos em geral, metal, madeira, cartolina, 
 42 <img src="https://github.com/senderrocha/senderr/blob/master/file/B47090A3-F4A2-443F-BA42-2A721FEE0909.jpeg"  width="100" height="100"> 
-30
+30 <img src="https://github.com/senderrocha/senderr/blob/master/file/91846026-69BF-4FD3-84E3-E0F3F62FE27B.jpeg"  width="100" height="100"> 
 
 ## Como guardar sobra de material já preparado: dentro de balão (sem contato com ar)
-57
+57 <img src="https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg"  width="100" height="100"> 
 
 ## Cola de silicone para montagem de partes do molde ou do produto a ser fabricado
-44
-16
+44 <img src="https://github.com/senderrocha/senderr/blob/master/file/BD23E245-254C-4406-B2D3-B898A2168108.jpeg"  width="100" height="100"> 
+16 <img src="https://github.com/senderrocha/senderr/blob/master/file/4D98DB0B-EE08-4794-A08F-3C8CC3D38F67.jpeg"  width="100" height="100"> 
 
 ## Vedação de material – cola, borracha, plástico
 * 	- fabricar o atuador sempre com um formato de cone no final para poder passar abraçadeira para fixar 
-20
-27
-35
-36
-39
-43
-46
-48
-50
+20 <img src="https://github.com/senderrocha/senderr/blob/master/file/64E3AFFA-86FD-46D9-8966-7F2A08034559.jpeg"  width="100" height="100">
+27 <img src="https://github.com/senderrocha/senderr/blob/master/file/872D45CA-F047-4070-ADE8-49A1F85F4804.jpeg"  width="100" height="100"> 
+35 <img src="https://github.com/senderrocha/senderr/blob/master/file/9E416364-D00A-4200-9C1E-95C7B05F89DD.jpeg"  width="100" height="100">
+36 <img src="https://github.com/senderrocha/senderr/blob/master/file/A2FE61E9-156F-400B-B74D-9E6F107A4827.jpeg"  width="100" height="100"> 
+39 <img src="https://github.com/senderrocha/senderr/blob/master/file/AC375DBF-01F1-41B9-82B8-77A43FA6867B.jpeg"  width="100" height="100"> 
+43 <img src="https://github.com/senderrocha/senderr/blob/master/file/BB81586E-8BD6-49B6-978A-ED132987A527.jpeg"  width="100" height="100"> 
+46 <img src="https://github.com/senderrocha/senderr/blob/master/file/C13E8CE9-75A1-4C26-91F5-07479C6CE7F9.jpeg"  width="100" height="100"> 
+48 <img src="https://github.com/senderrocha/senderr/blob/master/file/CA25FF9D-ABBA-49A9-B813-D796A1AC387C.jpeg"  width="100" height="100"> 
+50 <img src="https://github.com/senderrocha/senderr/blob/master/file/D466B104-A9EB-4B74-B51A-C900EBC9B8F2.jpeg"  width="100" height="100">
 
 
 ## Como testar o material: recipiente com agua para verificar bolhas 
 falta imagens
 
 ## Rigidez do material: paredes espessas exigem grandes pressões 
-15
+15 <img src="https://github.com/senderrocha/senderr/blob/master/file/4D181714-7A12-4358-A132-8C771D7D8A4F.jpeg"  width="100" height="100">
 
 ## Manutenção de pneu de bicicleta para reparos 
 
