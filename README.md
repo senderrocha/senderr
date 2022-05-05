@@ -1,22 +1,24 @@
 # Lessons Learned in Soft Actuators
 
 ## Nacionalização BOM
-24
-26
-27
-28
-12
-41
-51
-62
-61
-18
+24 <img src="https://github.com/senderrocha/senderr/blob/master/file/75934960-1377-4D7A-9C03-C22A81A1F4D3.jpeg"  width="100" height="100"> 
+26 <img src="https://github.com/senderrocha/senderr/blob/master/file/7A6F7356-33D5-41EC-ADEC-9EC35EB261A3.jpeg"  width="100" height="100">
+27 <img src="https://github.com/senderrocha/senderr/blob/master/file/7A6F7356-33D5-41EC-ADEC-9EC35EB261A3.jpeg"  width="100" height="100">
+28 <img src="https://github.com/senderrocha/senderr/blob/master/file/878ABAEF-43DB-400B-9092-7434FB68E739.jpeg"  width="100" height="100">
+12 <img src="https://github.com/senderrocha/senderr/blob/master/file/3B1C5B81-E6BA-4596-96B6-8540CE3FD657.jpeg"  width="100" height="100"> 
+41 <img src="https://github.com/senderrocha/senderr/blob/master/file/B3B49790-0214-4A49-A90B-66A1E8400A86.jpeg"  width="100" height="100"> 
+51 <img src="https://github.com/senderrocha/senderr/blob/master/file/D546C6D0-DB5F-4AD9-9889-3F3394FB44F9.jpeg"  width="100" height="100"> 
+62 <img src="https://github.com/senderrocha/senderr/blob/master/file/tabela%20bom.png"  width="100" height="100"> 
+61 <img src="https://github.com/senderrocha/senderr/blob/master/file/bom.png"  width="100" height="100"> 
+18 <img src="https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg"  width="100" height="100"> 
+
 ## Partes difíceis de nacionalizar – vent screw
-63
-12
-15
-18
-31
+63 <img src="https://github.com/senderrocha/senderr/blob/master/file/vent%20screw.jpeg"  width="100" height="100"> 
+12 <img src="https://github.com/senderrocha/senderr/blob/master/file/3B1C5B81-E6BA-4596-96B6-8540CE3FD657.jpeg"  width="100" height="100"> 
+15 <img src="https://github.com/senderrocha/senderr/blob/master/file/4D181714-7A12-4358-A132-8C771D7D8A4F.jpeg"  width="100" height="100"> 
+18 <img src="https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg"  width="100" height="100">
+31 <img src="https://github.com/senderrocha/senderr/blob/master/file/9201322A-7FFC-47D0-B0E8-DFCDBB51DCF2.jpeg"  width="100" height="100"> 
+
 Vent Screw
 
 ![Vent Screw](https://github.com/senderrocha/senderr/blob/master/file/vent%20screw.jpeg)
@@ -36,22 +38,22 @@ Barra de metal no meio do material
 precisa inserir figura no servidor 
 
 ## Partes importantes do material: balanca (balanca de cozinha serve mas não tanto) 	
-5
-53
+5 <img src="https://github.com/senderrocha/senderr/blob/master/file/147A2E91-A048-46A8-A7CD-3EBD4F6244C0.jpeg"  width="100" height="100"> 
+53 <img src="https://github.com/senderrocha/senderr/blob/master/file/DACE03BB-D375-4A46-AF29-FA60DB6E4C5A.jpeg"  width="100" height="100">
 
 ## Bolhas no material: mexer bastante, de preferencia com furadeira, mas não muito pois pode esquentar o material e solidifica-lo
-4
-9
-14
-21
+4 <img src="https://github.com/senderrocha/senderr/blob/master/file/0B979163-9075-4A15-9EF6-4F64B96A15BC.jpeg"  width="100" height="100">
+9 <img src="https://github.com/senderrocha/senderr/blob/master/file/30E23079-B2AE-4C01-8C7E-2E2D0865BB60.jpeg"  width="100" height="100">
+14 <img src="https://github.com/senderrocha/senderr/blob/master/file/42EF7571-0911-43F4-83B5-96111DBE9243.jpeg"  width="100" height="100"> 
+21 <img src="https://github.com/senderrocha/senderr/blob/master/file/680D0695-34CD-4B20-BD8C-CE40DD6CEC29.jpeg"  width="100" height="100">
 
 ## Como virar o tubo de silicone: usar pipeta 
-24
+24 <img src="https://github.com/senderrocha/senderr/blob/master/file/75934960-1377-4D7A-9C03-C22A81A1F4D3.jpeg"  width="100" height="100"> 
 
 ## Como fabricar moldes com baixo custo
 * 	- materiais que não grudam 
 * 	- plásticos em geral, metal, madeira, cartolina, 
-42
+42 <img src="https://github.com/senderrocha/senderr/blob/master/file/B47090A3-F4A2-443F-BA42-2A721FEE0909.jpeg"  width="100" height="100"> 
 30
 
 ## Como guardar sobra de material já preparado: dentro de balão (sem contato com ar)
