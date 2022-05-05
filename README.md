@@ -1,5 +1,14 @@
 # Lessons Learned in Soft Actuators
 
+### Referencia
+https://softroboticstoolkit.com/book/fiber-reinforced-bending-actuators
+
+## Nacionalização da BOM
+
+![](https://github.com/senderrocha/senderr/blob/master/file/tabela%20bom.png)
+
+![](https://github.com/senderrocha/senderr/blob/master/file/bom.png)
+
 ## Nacionalização BOM
 24 <img src="https://github.com/senderrocha/senderr/blob/master/file/75934960-1377-4D7A-9C03-C22A81A1F4D3.jpeg"  width="100" height="100"> 
 26 <img src="https://github.com/senderrocha/senderr/blob/master/file/7A6F7356-33D5-41EC-ADEC-9EC35EB261A3.jpeg"  width="100" height="100">
@@ -13,24 +22,21 @@
 18 <img src="https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg"  width="100" height="100"> 
 
 ## Partes difíceis de nacionalizar – vent screw
-63 <img src="https://github.com/senderrocha/senderr/blob/master/file/vent%20screw.jpeg"  width="100" height="100"> 
+Vent Screw <img src="https://github.com/senderrocha/senderr/blob/master/file/vent%20screw.jpeg"  width="100" height="100"> 
 12 <img src="https://github.com/senderrocha/senderr/blob/master/file/3B1C5B81-E6BA-4596-96B6-8540CE3FD657.jpeg"  width="100" height="100"> 
 15 <img src="https://github.com/senderrocha/senderr/blob/master/file/4D181714-7A12-4358-A132-8C771D7D8A4F.jpeg"  width="100" height="100"> 
 18 <img src="https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg"  width="100" height="100">
 31 <img src="https://github.com/senderrocha/senderr/blob/master/file/9201322A-7FFC-47D0-B0E8-DFCDBB51DCF2.jpeg"  width="100" height="100"> 
+um pouco cara, mas eficiente:
 
-Vent Screw
+###Tentativa de fabricacao do vent screw por impresssora 3D. Sem sucessso. Material muito frágil:
 
-![Vent Screw](https://github.com/senderrocha/senderr/blob/master/file/vent%20screw.jpeg)
-
-Tentativa de fabricacao do vent screw por impresssora 3D. Sem sucessso. Material muito frágil:
-
-<img src="https://github.com/senderrocha/senderr/blob/master/file/D466B104-A9EB-4B74-B51A-C900EBC9B8F2.jpeg"  width="500" height="400">
+<img src="https://github.com/senderrocha/senderr/blob/master/file/D466B104-A9EB-4B74-B51A-C900EBC9B8F2.jpeg"  width="100" height="100">
 
 
 Fibra de vidro:
 
-<img src="https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg"  width="500" height="400">
+<img src="https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg"  width="100" height="100">
 
 Barra de metal no meio do material
 
@@ -60,6 +66,8 @@ precisa inserir figura no servidor
 57 <img src="https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg"  width="100" height="100"> 
 
 ## Cola de silicone para montagem de partes do molde ou do produto a ser fabricado
+Importante nao so para colar o tecido de fibra de vidro no silicone como tambem para colar partes de silicone de um projeto. 
+
 44 <img src="https://github.com/senderrocha/senderr/blob/master/file/BD23E245-254C-4406-B2D3-B898A2168108.jpeg"  width="100" height="100"> 
 16 <img src="https://github.com/senderrocha/senderr/blob/master/file/4D98DB0B-EE08-4794-A08F-3C8CC3D38F67.jpeg"  width="100" height="100"> 
 
@@ -93,67 +101,7 @@ falta imagens
 
 ## É possível fazer um molde de silicone mas tem que colocar um filme platico ou outro material para evitar que o material grude no molde 
 
-### Referencia
-https://softroboticstoolkit.com/book/fiber-reinforced-bending-actuators
-
-## Nacionalização da BOM
-
-![](https://github.com/senderrocha/senderr/blob/master/file/tabela%20bom.png)
-
-![](https://github.com/senderrocha/senderr/blob/master/file/bom.png)
-
-### # Partes difíceis de nacionalizar
-
-Vent Screw
-
-![Vent Screw](https://github.com/senderrocha/senderr/blob/master/file/vent%20screw.jpeg)
-
-Tentativa de fabricacao do vent screw por impresssora 3D. Sem sucessso. Material muito frágil:
-
-<img src="https://github.com/senderrocha/senderr/blob/master/file/D466B104-A9EB-4B74-B51A-C900EBC9B8F2.jpeg"  width="500" height="400">
 
 
-Fibra de vidro:
 
-<img src="https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg"  width="500" height="400">
-
-Barra de metal no meio do material
-
-
-## Partes importantes do material
-
-Balanca:
-
-<img src="https://github.com/senderrocha/senderr/blob/master/file/147A2E91-A048-46A8-A7CD-3EBD4F6244C0.jpeg"  width="500" height="400">
-
-
-Cola: 
-Importante nao so para colar o tecido de fibra de vidro no silicone como tambem para colar partes de silicone de um projeto. 
-![Cola](https://github.com/senderrocha/senderr/blob/master/file/BD23E245-254C-4406-B2D3-B898A2168108.jpeg)
-
-
-### Balao
-![Balao](https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg)
-<img src="https://github.com/senderrocha/senderr/blob/master/file/F88359E5-A0B2-43A0-AB60-E7A8E24CA17E.jpeg"  width="500" height="600">
-
-### fita de nylon de pescar 
-um pouco cara, mas eficiente:
-![fita de nylon de pescar](https://github.com/senderrocha/senderr/blob/master/file/7A6F7356-33D5-41EC-ADEC-9EC35EB261A3.jpeg)
-
-# Fabricacao
-Primeiro silicone 
-![Fabricacao](https://github.com/senderrocha/senderr/blob/master/file/E5FB5B91-8B43-4942-B481-4AE49FEE40AE.jpeg)
-![Fabricacao](https://github.com/senderrocha/senderr/blob/master/file/7A59775E-DE65-4DD4-8D15-D8B1F38E5737.jpeg)
-Aplicacao do tecido 
-![Fabricacao](https://github.com/senderrocha/senderr/blob/master/file/E062AEDA-1AE9-44E0-9681-30590529FBA8.jpeg)
-Aplicacao da fita nylon
-![Aplicacao da fita nylon](https://github.com/senderrocha/senderr/blob/master/file/BEF29830-3AEA-4AE0-92A9-BBBD8F96A558.jpeg)
-Aplicacao do selante
-![Fabricacao](https://github.com/senderrocha/senderr/blob/master/file/D7C09E12-A979-4779-9B45-B91B053AC8D9.jpeg)
-
-##Vedacao
-
-![Vedacao](https://github.com/senderrocha/senderr/blob/master/file/9E416364-D00A-4200-9C1E-95C7B05F89DD.jpeg)
-
-![Vedacao](https://github.com/senderrocha/senderr/blob/master/file/872D45CA-F047-4070-ADE8-49A1F85F4804.jpeg)
 
