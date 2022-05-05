@@ -1,24 +1,30 @@
 # Lessons Learned in Soft Actuators
 
-### Referencia
+## Purpose
+
+## Revisao
+
+## Interessados 
+
+## Abreviacoes
+
+## Referencia
 https://softroboticstoolkit.com/book/fiber-reinforced-bending-actuators
 
 ## Nacionalização da BOM
 
-![](https://github.com/senderrocha/senderr/blob/master/file/tabela%20bom.png)
 
-![](https://github.com/senderrocha/senderr/blob/master/file/bom.png)
 
-## Nacionalização BOM
+61![](https://github.com/senderrocha/senderr/blob/master/file/bom.png)
+
+62![](https://github.com/senderrocha/senderr/blob/master/file/tabela%20bom.png)
 24 <img src="https://github.com/senderrocha/senderr/blob/master/file/75934960-1377-4D7A-9C03-C22A81A1F4D3.jpeg"  width="100" height="100"> 
-26 <img src="https://github.com/senderrocha/senderr/blob/master/file/7A6F7356-33D5-41EC-ADEC-9EC35EB261A3.jpeg"  width="100" height="100">
-27 <img src="https://github.com/senderrocha/senderr/blob/master/file/7A6F7356-33D5-41EC-ADEC-9EC35EB261A3.jpeg"  width="100" height="100">
 28 <img src="https://github.com/senderrocha/senderr/blob/master/file/878ABAEF-43DB-400B-9092-7434FB68E739.jpeg"  width="100" height="100">
+
+26 <img src="https://github.com/senderrocha/senderr/blob/master/file/7A6F7356-33D5-41EC-ADEC-9EC35EB261A3.jpeg"  width="100" height="100">
 12 <img src="https://github.com/senderrocha/senderr/blob/master/file/3B1C5B81-E6BA-4596-96B6-8540CE3FD657.jpeg"  width="100" height="100"> 
 41 <img src="https://github.com/senderrocha/senderr/blob/master/file/B3B49790-0214-4A49-A90B-66A1E8400A86.jpeg"  width="100" height="100"> 
 51 <img src="https://github.com/senderrocha/senderr/blob/master/file/D546C6D0-DB5F-4AD9-9889-3F3394FB44F9.jpeg"  width="100" height="100"> 
-62 <img src="https://github.com/senderrocha/senderr/blob/master/file/tabela%20bom.png"  width="100" height="100"> 
-61 <img src="https://github.com/senderrocha/senderr/blob/master/file/bom.png"  width="100" height="100"> 
 18 <img src="https://github.com/senderrocha/senderr/blob/master/file/5C644AFE-E273-4EF5-9A27-67C8FBB402FC.jpeg"  width="100" height="100"> 
 
 ## Partes difíceis de nacionalizar – vent screw
