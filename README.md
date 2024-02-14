@@ -1,21 +1,16 @@
-# Lessons Learned in Soft Actuators
-
-## Purpose
+# Lessons Learned in Soft Sensory Motor System based on Ionic Solution
 
 # 1 Abbreviation
 SSMS-IS: Soft Sensory-Motor System based on Ionic Solution
 
 # 2 Introduction
 
-## 2.1 Title
-Soft Sensory Motor System based on Ionic Solution
-
-## 2.2 Abstract 
+## 2.1 Abstract 
 This project presents a soft sensory-motor system based on an ionic solution (SSMS-IS). The proposed soft transducer-actuator can measure the pressure compression for external forces and simultaneously measure the inner pressure during self-expansion. Also, it can actuate in the environment when inflated. 
 
 This project can contribute to the sensory-motor coordination studies for soft robots since it is able to sense and actuate simultaneously in the environment bringing rapid response performance.
 
-## 2.3 Background knowledge 
+## 2.2 Background knowledge 
 There are 3 states of the sensor: relaxed, inflated, and compressed. In the relaxed state, there is no air inlet in the sensor and the variation of the internal and external pressure is null. In the inflated state, there is an air inlet in the sensor and the internal pressure increases making the sensor inflated, once the body is deformable. For the compressed state, the air inlet is null as well, but an external pressure is applied to the sensor, making the sensor compressed. For each state, the electrolyte in the sensor varies its volume consequently variating its internal electric resistance.  
 
 ![image](https://github.com/senderrocha/senderr/assets/32946334/1d6d6c57-45ab-4aa3-87fc-9bcf8e318874)
@@ -273,6 +268,7 @@ It is recommended to observe the limit to insert the crimped wires without drill
 
 ## 5.6 Step5: Inserting the air tube
 Insert the air tube wit 2mm of diameter in the middle layer silicon in the position showed in the silicon air tube guide as showed in the figure. It is recommended to use a thin tool (as wooden toothpick) to crate the hole in the silicon. 
+
 ![image](https://github.com/senderrocha/senderr/assets/32946334/7dedfce5-0ca8-4d1f-b2c8-d5ec02bb0d96)
 
 [![Watch the video](https://github.com/senderrocha/senderr/assets/32946334/8eb14e3e-03d4-4784-9293-d32a496d1959)](https://youtu.be/-pITGnmzHIE)
@@ -438,12 +434,7 @@ https://softroboticstoolkit.com/book/fiber-reinforced-bending-actuators
 18.	Zhang, C.; Zhou J.; Jin G. Pillbot: a soft origami robot inspired by pill bugs. In Proceedings of the RICAI 20, Shanghai, China, September 20-22, 2019. 
 
 
-
-[![Watch the video]]()
-[![Watch the video]]()
-[![Watch the video]]()
-[![Watch the video]]()
-[![Watch the video]]()
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 61![](https://github.com/senderrocha/senderr/blob/master/file/bom.png)
 
