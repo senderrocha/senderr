@@ -3,7 +3,8 @@
 ## Purpose
 
 ## Revisao
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video][image](https://github.com/senderrocha/senderr/assets/32946334/43f399fb-0173-426e-8fca-dba8e57eeaf7)!
+](https://youtu.be/T-D1KVIuvjA](https://youtu.be/pp0Di67Tm_s)
 
 
 ## Interessados 
